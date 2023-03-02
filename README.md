@@ -6,11 +6,6 @@ Making a program to find out the area of a sphere using C
 
 int main() {
 
-    /**
-     * Escreva a sua solução aqui
-     * Code your solution here
-     * Escriba su solución aquí
-     */
   float A,R;
 
     scanf("%1f",&R);
